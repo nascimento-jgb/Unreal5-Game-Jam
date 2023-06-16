@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lucek/Documents/GitHub/Unreal5-Game-Jam/CounterStrike/Content/AI/Tasks/BTTask_Roam_Around.uasset",
+				"C:/Users/lucek/Documents/GitHub/Unreal5-Game-Jam/CounterStrike/Content/Maps/MAP_Main.umap",
+				"C:/Users/lucek/Documents/GitHub/Unreal5-Game-Jam/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset",
+				"C:/Users/lucek/Documents/GitHub/Unreal5-Game-Jam/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset",
 				"/Users/mfm/Documents/Unreal Projects/UnrealGameJam/CounterStrike/Content/Maps/MAP_Main.umap",
 				"/Users/mfm/Documents/Unreal Projects/UnrealGameJam/CounterStrike/Content/AI/BP_Mutant.uasset",
 				"/Users/mfm/Documents/Unreal Projects/UnrealGameJam/CounterStrike/Content/AI/BB_Mutant.uasset",
